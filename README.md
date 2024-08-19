@@ -1,16 +1,18 @@
-## Hi there 👋
+# ✨ Hi, I'm Isys Nogueira 👋
 
-<!--
-**Murphyly/Murphyly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![clipboard-image-1724034231](https://github.com/user-attachments/assets/a1f0a1ff-24ed-4643-be52-a0a7d5c32089)
 
-Here are some ideas to get you started:
+I hold a technical degree in Computer Science from IFBA and I'm currently pursuing a Bachelor's degree in Information Systems, with a focus on Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 About Me
+
+- 📚 **Education:** Technical degree in Computer Science from IFBA
+- 🎓 **Current Studies:** Bachelor's degree in Information Systems
+- 🤖 **Main Interest:** Machine Learning
+
+## 📫 How to reach me:
+
+- [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/isys-nogueira-ab86a214b)
+- [Email](mailto:isysjoris@hotmail.com)
+
+Feel free to reach out or explore my projects!
