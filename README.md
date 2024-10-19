@@ -6,8 +6,10 @@ I hold a technical degree in Computer Science from IFBA and I'm currently pursui
 
 ## 🔭 About Me
 
-- 📚 **Education:** Technical degree in Computer Science from IFBA
-- 🎓 **Current Studies:** Bachelor's degree in Information Systems
+- 📚 **Education:**
+    - Bachelor's degree in Information Systems
+    - Technical degree in Computer Science from IFBA
+- 🎓 **Current Studies:** Master's degree in Computer Science
 - 🤖 **Main Interest:** Machine Learning
 
 ## 📫 How to reach me:
